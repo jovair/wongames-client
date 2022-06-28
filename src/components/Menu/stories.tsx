@@ -10,6 +10,6 @@ export const Default: Story<MenuProps> = (args) => <Menu {...args} />
 
 Default.parameters = {
   backgrounds: {
-    default: 'dark'
+    default: 'won-dark'
   }
 }
